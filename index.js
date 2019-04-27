@@ -25,4 +25,4 @@ kittens.push(name)
 return kittens
 }
 
-const
+const kittens
