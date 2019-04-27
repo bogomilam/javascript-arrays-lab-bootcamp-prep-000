@@ -20,9 +20,8 @@ kittens.shift(name)
 return kittens
 }
 
-function appendKitten(name){
-kittens.push(name)
-const kittens["Milo","Otis","Garfield"]
+function appendKitten(array){
+[..."Bogo"]
 return kittens
 }
 
