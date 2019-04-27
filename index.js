@@ -25,4 +25,4 @@ kittens.push(name)
 return kittens
 }
 
-const kittens
+const kittens["Milo","Otis","Garfield","Bogo"]
