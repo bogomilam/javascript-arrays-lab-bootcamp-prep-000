@@ -21,7 +21,7 @@ return kittens
 }
 
 function appendKitten(array){
-[...kittens]
+[...kittens,"Bogo"]
 return kittens
 }
 
