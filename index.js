@@ -29,5 +29,6 @@ return [name,...kittens]
 }
 
 function removeLastKitten(name){
-  return name.slice(0, array.length - 1)
+ kittens.pop(name)
 }
+
