@@ -21,6 +21,6 @@ return kittens
 }
 
 function appendKitten(name){
-(kittens.push(name)
+kittens.push(name)
 return kittens
 }
