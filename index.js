@@ -9,6 +9,6 @@ function destructivelyPrependKitten(name){
 return kittens
 }
 function destructivelyRemoveLastKitten(name){
-kittens.shift(name)
+kittens.slice(name-1)
 return kittens
 }
