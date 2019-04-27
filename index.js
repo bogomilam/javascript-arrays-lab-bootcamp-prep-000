@@ -21,8 +21,8 @@ return kittens
 }
 
 function appendKitten(name){
-[...kittens,"third"]
-return [kittens...,name]
+[...kittens,name]
+return [...kittens,"third"]
 }
 
 
