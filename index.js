@@ -22,7 +22,8 @@ return kittens
 
 function appendKitten(name){
 kittens.push(name)
+const kittens["Milo","Otis","Garfield","Bogo"]
 return kittens
 }
 
-const kittens["Milo","Otis","Garfield"]
+
