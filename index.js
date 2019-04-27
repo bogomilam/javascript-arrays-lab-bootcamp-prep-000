@@ -20,7 +20,7 @@ kittens.shift(name)
 return kittens
 }
 
-function appendKitten(){
+function appendKitten(name){
 [...kittens,"Bogo"]
 return kittens
 }
