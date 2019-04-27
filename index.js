@@ -29,7 +29,7 @@ return [name,...kittens]
 }
 
 function removeLastKitten(name){
- kittens.pop(name)
+ kittens.pop("Garfield")
 return kittens
 }
 
