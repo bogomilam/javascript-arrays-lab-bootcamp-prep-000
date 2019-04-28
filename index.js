@@ -33,3 +33,8 @@ kittens.slice(-1,kittens.length-1)
 return kitten
 }
 
+function removeLastKitten(name){
+kittens.slice(-1)
+return kittens
+}
+
