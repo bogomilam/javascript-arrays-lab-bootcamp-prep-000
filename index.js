@@ -33,7 +33,7 @@ kittens.slice(-1,kittens.length-1)
 return kittens
 }
 
-function removeLastKitten(name){
+function removeLastKitten(){
 kittens.slice(-1,kittens.length-1)
 return kittens
 }
